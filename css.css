@@ -1,0 +1,53 @@
+.pics {
+
+
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 270px;
+    border-radius: 12px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #fffbfb;
+    width: 300px;
+    height: 500px;
+    border-radius: 12px;
+
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.para {
+    text-align: center;
+}
+
+.attribution {
+
+
+    text-align: center;
+
+}
+
+.pr1 {
+    font-size: larger;
+    color: hsl(218, 44%, 22%);
+}
+
+.pr2 {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+
+}
